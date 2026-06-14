@@ -70,7 +70,7 @@ export default function Footer() {
               </a>
 
               <a
-                href="https://linkedin.com/in/shreyash-sharma"
+                href="https://www.linkedin.com/in/shreyash-sharma-562a333a5/"
                 target="_blank"
                 rel="noreferrer"
               >
